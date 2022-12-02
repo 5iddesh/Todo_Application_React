@@ -1,5 +1,5 @@
 # Todo_Application_React
-##Functionalities
+## Functionalities
 -add tasks
 -delete tasks
 
