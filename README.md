@@ -1,2 +1,6 @@
 # Todo_Application_React
-Created with CodeSandbox
+##Functionalities
+-add tasks
+-delete tasks
+
+
